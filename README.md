@@ -33,8 +33,7 @@ Configuration
      Edit lines 17 to 24 to configure properly Miresa
      You need to edit variables such as mail account sender/recipient ...
      In order to allow insecure send of mails you need to configure your Gmail account, visit  
-     this link : https://myaccount.google.com/u/2/lesssecureapps?rfn=27&rfnc=1&eid=-8528583655958181045&et=1&asae=2&pli=1
-  
+     this link : https://myaccount.google.com/lesssecureapps?rfn=27&rfnc=1&eid=-8528583655958181045&et=1&asae=2&pli=1
 
 
 Known Issues
