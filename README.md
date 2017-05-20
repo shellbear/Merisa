@@ -21,7 +21,7 @@ Screenshots
 
 ![](http://i.imgur.com/KXXYZJH.png)
 
-![](http://i.imgur.com/gn7P2F4.png)
+![](http://i.imgur.com/ZZkADW0.png)
 
 Legal Disclamer
 =
