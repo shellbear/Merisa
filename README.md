@@ -9,7 +9,7 @@ Miresa
 [![AUR](https://img.shields.io/aur/license/yaourt.svg)]()
 
 
-Miresa is a complete ransomware script for MacOS. It list all files on the system, encrypt all of them with aes-256 algorithm and generate a random 128bits base64 key sended by mail. After this Miresa create an Application on the desktop that open at every launch and every 20 seconds to view the procedure to get the key, and to decrypt files using the key.
+Miresa is a complete ransomware script for MacOS. It list all files on the system, generate a random 128bits base64 key sended by mail to encrypt all of them with aes-256 algorithm. After this Miresa create an Application on the desktop that open at every launch and every 20 seconds to view the procedure to get the key, and to decrypt files using the key.
 
 
 Screenshots
