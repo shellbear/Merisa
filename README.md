@@ -1,4 +1,4 @@
-Miresa
+Merisa
 =
 
 <img src="http://i.imgur.com/keNyJQX.png" width="135"> <img src="http://freevector.co/wp-content/uploads/2014/04/49703-dollar-money-sign-on-locked-padlock-security-symbol.png" width="180"> 
@@ -9,7 +9,7 @@ Miresa
 [![AUR](https://img.shields.io/aur/license/yaourt.svg)]()
 
 
-Miresa is a complete ransomware script for MacOS. It list all files on the system, generate a random 128bits base64 key sended by mail to encrypt all of them with aes-256 algorithm. After this Miresa create an Application on the desktop that open at every launch and every 20 seconds to view the procedure to get the key, and to decrypt files using the key.
+Merisa is a complete ransomware script for MacOS. It list all files on the system, generate a random 128bits base64 key sended by mail to encrypt all of them with aes-256 algorithm. After this Miresa create an Application on the desktop that open at every launch and every 20 seconds to view the procedure to get the key, and to decrypt files using the key.
 
 
 Screenshots
