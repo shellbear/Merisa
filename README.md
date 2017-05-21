@@ -23,16 +23,21 @@ Screenshots
 
 ![](http://i.imgur.com/ZZkADW0.png)
 
+
 Legal Disclamer
 =
     I don't hold any responsibility for the bad use of this tool,
     remember that attacking targets without prior consent is illegal and punished by law.
 
+
+Credits
+=
+- shc : http://www.datsi.fi.upm.es/~frosal/
+
+
 Configuration 
 =
-     Edit lines 17 to 24 to configure properly Miresa
-     You need to edit variables such as mail account sender/recipient ...
-     In order to allow insecure send of mails you need to configure your Gmail account, visit  
+     In order to allow insecure send of mails you need to configure your Gmail account by visiting  
      this link : https://myaccount.google.com/lesssecureapps?rfn=27&rfnc=1&eid=-8528583655958181045&et=1&asae=2&pli=1
 
 
@@ -47,7 +52,8 @@ Author
 =
 
 * ShellBear (https://github.com/ShellBear)
-Blogspot (http://shellbearblog.blogspot.com)
+* Blogspot (http://shellbearblog.blogspot.com)
+
 
 Contributing
 =
