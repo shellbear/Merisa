@@ -16,6 +16,7 @@ If you want more informations about Merisa here the official page: (https://shel
 
 Screenshots
 =
+Notice: These scrennshots are outdated ! 
 
 ![](http://i.imgur.com/pjMCjtf.png)
 
