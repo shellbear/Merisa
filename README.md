@@ -18,7 +18,7 @@ Screenshots and Videos
 =
 Notice: These screenshots can be outdated ! 
 
-![](http://i.imgur.com/YNRT814.mp4)
+![](https://media.giphy.com/media/l0Iyi42GzSIDmL1oA/giphy.gif)
 
 ![](http://i.imgur.com/pjMCjtf.png)
 
