@@ -9,7 +9,7 @@ Merisa
 [![AUR](https://img.shields.io/aur/license/yaourt.svg)]()
 
 
-Merisa is a complete ransomware script for MacOS. It list all files on the system, generate a random 128bits base64 key sended by mail to encrypt all of them with aes-256 algorithm. After this Miresa create an Application on the desktop that open at every launch and every 20 seconds to view the procedure to get the key, and to decrypt files using the key.
+Merisa is a complete ransomware script for MacOS. It list all files on the system, generate 2048 bits RSA keys sended by mail to encrypt all of them with aes-128 bits algorithm. After this, Miresa creates an Application on the desktop to view the procedure to get the key, and to decrypt files using the key.
 
 If you want more informations about Merisa here the official page: (https://shellbear.github.io/Merisa.html)
 
@@ -18,12 +18,16 @@ Screenshots and Videos
 =
 Notice: These screenshots can be outdated ! 
 
+Example of Merisa Webserver
 ![](https://media.giphy.com/media/l0Iyi42GzSIDmL1oA/giphy.gif)
 
+Decryption Tool
 ![](http://i.imgur.com/pjMCjtf.png)
 
+Example file of procedure to get the key
 ![](http://i.imgur.com/cE49sZM.png)
 
+The mail received which contains the encryption key
 <img src="http://i.imgur.com/krxLliV.jpg" width="270">
 
 
