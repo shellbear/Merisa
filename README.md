@@ -24,9 +24,7 @@ Notice: These screenshots can be outdated !
 
 ![](http://i.imgur.com/cE49sZM.png)
 
-![](http://i.imgur.com/KXXYZJH.png)
-
-![](http://i.imgur.com/krxLliV.jpg)
+<img src="http://i.imgur.com/krxLliV.jpg" width="135">
 
 
 Legal Disclamer
