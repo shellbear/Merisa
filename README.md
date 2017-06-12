@@ -18,7 +18,8 @@ News
 
 Created a webserver to view, add victims directly !
 Demo: https://www.youtube.com/watch?v=xpMaHWCIBQI
-Merisa now bypass BlockBlock and RansomWhere!
+
+Merisa now bypass BlockBlock (http://bit.ly/1LPTxxm)  and RansomWhere! (http://bit.ly/1SZMvbW)
 
 
 Screenshots and Videos
