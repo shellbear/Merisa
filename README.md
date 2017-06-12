@@ -13,6 +13,12 @@ Merisa is a complete ransomware script for MacOS. It list all files on the syste
 
 If you want more informations about Merisa here the official page: (https://shellbear.github.io/Merisa.html)
 
+News
+=
+
+Created a webserver to view, add victims directly !
+Demo: https://www.youtube.com/watch?v=xpMaHWCIBQI
+
 
 Screenshots and Videos
 =
