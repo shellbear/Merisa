@@ -19,15 +19,19 @@ Screenshots and Videos
 Notice: These screenshots can be outdated ! 
 
 Example of Merisa Webserver
+
 ![](https://media.giphy.com/media/l0Iyi42GzSIDmL1oA/giphy.gif)
 
 Decryption Tool
+
 ![](http://i.imgur.com/pjMCjtf.png)
 
 Example file of procedure to get the key
+
 ![](http://i.imgur.com/cE49sZM.png)
 
 The mail received which contains the encryption key
+
 <img src="http://i.imgur.com/krxLliV.jpg" width="270">
 
 
