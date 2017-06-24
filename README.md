@@ -54,6 +54,10 @@ Credits
 - shc : http://www.datsi.fi.upm.es/~frosal/
 - tor : https://www.torproject.org
 
+Contact
+=
+Want to contact me for questions, projects ?
+Send me a mail to: shellbear@protonmail.com
 
 Configuration 
 =
@@ -65,7 +69,7 @@ Known Issues
 =
 
 If you discover any bugs, feel free to create an issue on GitHub fork and
-send us a pull request.
+send a pull request.
 
 
 Author
