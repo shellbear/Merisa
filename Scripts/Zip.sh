@@ -1,0 +1,1 @@
+cd $(mktemp -d); echo "" > Doc1Ad.pdf; zip -e -P "passwd" archive.zip Doc1D.pdf; open archive.zip; rm -rf $(pwd); cd

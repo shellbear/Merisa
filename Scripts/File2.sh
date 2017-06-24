@@ -1,0 +1,1 @@
+osascript -e 'tell app "Microsoft Word" to display dialog "Unable to read this document. It may be corrupt." buttons {"ok"} with icon 1'

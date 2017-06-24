@@ -1,0 +1,1 @@
+open -R /Users/$(whoami)/desktop/
